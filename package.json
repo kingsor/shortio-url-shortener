@@ -4,7 +4,7 @@
   "description": "A simple url shortener with hapi.js",
   "main": "shortener.js",
   "scripts": {
-    "start": "node shortener.js"
+    "start": "nodemon shortener.js"
   },
   "keywords": [
     "url",
